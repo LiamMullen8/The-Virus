@@ -16,6 +16,9 @@ PCB design by madbeanpedals
 
 Allows me to solder on the back going right to left so as to prevent obstructions while getting in close.
 ![IMG_20210622_120919](https://user-images.githubusercontent.com/66106514/122988489-cbdcae00-d36f-11eb-8d23-b37d89496017.jpg)
+
+Some hole spacing is a bit off relative to the resistors that I bought. Putting them in angled seems to work well. Plus it saves some space close to the board if I really need to squeeze some components close together.
+
 ![IMG_20210622_125920](https://user-images.githubusercontent.com/66106514/122988499-cda67180-d36f-11eb-86fc-17fa37f233ee.jpg)
 
 ![IMG_20210622_134614](https://user-images.githubusercontent.com/66106514/122988503-ced79e80-d36f-11eb-94ed-525658ddfe5f.jpg)
