@@ -3,7 +3,7 @@ Special Effect pedal for amplified instruments
 
 PCB design from madbeanpedals - - - https://madbeanpedals.com/ - - -
 
-Components ordered at Tayda Electronics.  They really do have amazing prices : ) - - - https://www.taydaelectronics.com/ - - -
+Components ordered at Tayda Electronics. They really do have amazing prices : ) - - - https://www.taydaelectronics.com/ - - -
 
 
 > Project Shopping Cart --- https://www.taydaelectronics.com/savecartpro/index/savenewquote/qid/8307314726
