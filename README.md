@@ -7,9 +7,13 @@ PCB design by madbeanpedals
 ![IMG_20210621_215404](https://user-images.githubusercontent.com/66106514/122988479-caab8100-d36f-11eb-9101-7157977d134a.jpg)
 
 -- First Row --
--Work Left and Down along the board since I'm a lefty. Allows me to solder on the back going right to left so as to prevent obstructions while getting in close.
+
+-Work Left and Down along the board since I'm a lefty.
+
+Allows me to solder on the back going right to left so as to prevent obstructions while getting in close.
 ![IMG_20210622_120919](https://user-images.githubusercontent.com/66106514/122988489-cbdcae00-d36f-11eb-8d23-b37d89496017.jpg)
 ![IMG_20210622_125920](https://user-images.githubusercontent.com/66106514/122988499-cda67180-d36f-11eb-86fc-17fa37f233ee.jpg)
+
 -- Second Row Done --
 Third Row
 
