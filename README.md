@@ -4,7 +4,6 @@ Special Effect pedal for amplified instruments
 PCB design by madbeanpedals
 
 
-![IMG_20210621_215257](https://user-images.githubusercontent.com/66106514/122988476-c97a5400-d36f-11eb-875a-464d7e420874.jpg)
 ![IMG_20210621_215404](https://user-images.githubusercontent.com/66106514/122988479-caab8100-d36f-11eb-9101-7157977d134a.jpg)
 ![IMG_20210622_120919](https://user-images.githubusercontent.com/66106514/122988489-cbdcae00-d36f-11eb-8d23-b37d89496017.jpg)
 ![IMG_20210622_125920](https://user-images.githubusercontent.com/66106514/122988499-cda67180-d36f-11eb-86fc-17fa37f233ee.jpg)
