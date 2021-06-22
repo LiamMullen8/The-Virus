@@ -3,10 +3,10 @@ Special Effect pedal for amplified instruments
 
 PCB design by madbeanpedals
 
-First Row
+-- Workstation Layout --
 ![IMG_20210621_215404](https://user-images.githubusercontent.com/66106514/122988479-caab8100-d36f-11eb-9101-7157977d134a.jpg)
 
-Second Row
+-- First Row --
 ![IMG_20210622_120919](https://user-images.githubusercontent.com/66106514/122988489-cbdcae00-d36f-11eb-8d23-b37d89496017.jpg)
 
 Third Row
