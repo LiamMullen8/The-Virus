@@ -29,7 +29,7 @@ Allows me to solder on the back going right to left so as to prevent obstruction
 
 -- Second Row -- 
 
-Those 100n capacitors are truly the forbidden Gushers. they look so tasty ;P
+-Those 100n capacitors are truly the forbidden Gushers. they look so tasty ;P
 
 ![IMG_20210622_125920](https://user-images.githubusercontent.com/66106514/122988499-cda67180-d36f-11eb-86fc-17fa37f233ee.jpg)
 
@@ -38,7 +38,10 @@ Keep working slow pace, no need to rush the solder
 
 -- Second Row Complete --
 
-Third Row
+-- Third Row --
+
+-The IC sockets are a definite must-have. Easily swappable and soldering directly on IC is bad idea in itself.
+
 ![IMG_20210622_142641](https://user-images.githubusercontent.com/66106514/122988509-d008cb80-d36f-11eb-9ef4-fb3f2eb6cdd8.jpg)
 
 On-On-On Switch lugs quite short. Unfortunately, I had to pretty much flood hole to get contact. Nonetheless, solid connection and not too globby.
