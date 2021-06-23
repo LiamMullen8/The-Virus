@@ -40,6 +40,11 @@ Keep working slow pace, no need to rush the solder
 
 Third Row
 ![IMG_20210622_142641](https://user-images.githubusercontent.com/66106514/122988509-d008cb80-d36f-11eb-9ef4-fb3f2eb6cdd8.jpg)
+
+On-On-On Switch lugs quite short.
+
+Unfortunately, I had to pretty much flood hole to get contact. Nonetheless, solid connection and not too globby.
+
 ![IMG_20210622_145939](https://user-images.githubusercontent.com/66106514/122988518-d1d28f00-d36f-11eb-85b2-2572fad16b36.jpg)
 
 Halfway Progress Report (Rear)
