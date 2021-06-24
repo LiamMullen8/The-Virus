@@ -36,8 +36,6 @@ Allows me to solder on the back going right to left so as to prevent obstruction
 Keep working slow pace, no need to rush the solder
 ![IMG_20210622_134614](https://user-images.githubusercontent.com/66106514/122988503-ced79e80-d36f-11eb-94ed-525658ddfe5f.jpg)
 
--- Second Row Complete --
-
 -- Third Row --
 
 -The IC sockets are a definite must-have. Easily swappable and soldering directly on IC is bad idea in itself.
