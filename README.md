@@ -49,3 +49,31 @@ On-On-On Switch lugs quite short. Unfortunately, I had to pretty much flood hole
 Halfway Progress Report (Rear)
 ![IMG_20210622_154052](https://user-images.githubusercontent.com/66106514/122989188-866cb080-d370-11eb-817a-d8859f233904.jpg)
 
+----------------------------------------------------------
+
+![IMG_20210629_130627](https://user-images.githubusercontent.com/66106514/124023954-9746a300-d9bc-11eb-9b66-492498dbd85a.jpg)
+![IMG_20210629_131824](https://user-images.githubusercontent.com/66106514/124023958-99106680-d9bc-11eb-9b83-5a55778a581a.jpg)
+![IMG_20210629_132530](https://user-images.githubusercontent.com/66106514/124023963-9a419380-d9bc-11eb-9eb9-a1024f58012b.jpg)
+![IMG_20210629_134428](https://user-images.githubusercontent.com/66106514/124023971-9b72c080-d9bc-11eb-908d-724af0808f68.jpg)
+![IMG_20210629_135436](https://user-images.githubusercontent.com/66106514/124023977-9d3c8400-d9bc-11eb-955a-1b690a6d3949.jpg)
+![IMG_20210629_140155](https://user-images.githubusercontent.com/66106514/124023982-9e6db100-d9bc-11eb-80bd-37fbcfcc5a43.jpg)
+![IMG_20210629_141432](https://user-images.githubusercontent.com/66106514/124023990-a0d00b00-d9bc-11eb-9d07-ad1f6df13f61.jpg)
+![IMG_20210629_141448](https://user-images.githubusercontent.com/66106514/124023998-a2013800-d9bc-11eb-8aeb-0f56b92994d3.jpg)
+![IMG_20210629_143739](https://user-images.githubusercontent.com/66106514/124024005-a3cafb80-d9bc-11eb-8d8a-53ffc9511137.jpg)
+![IMG_20210629_145329](https://user-images.githubusercontent.com/66106514/124024011-a4fc2880-d9bc-11eb-920d-a914dbb16c85.jpg)
+![IMG_20210629_163817](https://user-images.githubusercontent.com/66106514/124024016-a62d5580-d9bc-11eb-8683-5bc92555cc6b.jpg)
+![IMG_20210629_163912](https://user-images.githubusercontent.com/66106514/124024023-a7f71900-d9bc-11eb-8ed0-4a8cc5ccf11b.jpg)
+![IMG_20210629_165234](https://user-images.githubusercontent.com/66106514/124024026-a9c0dc80-d9bc-11eb-94df-6730014a5c8d.jpg)
+![IMG_20210629_170256](https://user-images.githubusercontent.com/66106514/124024030-aaf20980-d9bc-11eb-9bf1-6572d76016a4.jpg)
+![IMG_20210629_173236](https://user-images.githubusercontent.com/66106514/124024034-acbbcd00-d9bc-11eb-8a75-dc68782e4729.jpg)
+![IMG_20210629_173452](https://user-images.githubusercontent.com/66106514/124024045-ae859080-d9bc-11eb-997c-3fe7f26ee743.jpg)
+![IMG_20210629_173511](https://user-images.githubusercontent.com/66106514/124024051-b2191780-d9bc-11eb-9376-a3b4fdce2082.jpg)
+![IMG_20210629_180304](https://user-images.githubusercontent.com/66106514/124024058-b34a4480-d9bc-11eb-9fe5-913ac27302a4.jpg)
+![IMG_20210629_184142](https://user-images.githubusercontent.com/66106514/124024064-b6453500-d9bc-11eb-83e5-ad78f822a682.jpg)
+![IMG_20210629_184154](https://user-images.githubusercontent.com/66106514/124024070-b7766200-d9bc-11eb-8c91-c5e41dc4a85f.jpg)
+
+
+https://user-images.githubusercontent.com/66106514/124024075-b9402580-d9bc-11eb-94fd-5ddd6d041209.mp4
+
+
+
