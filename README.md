@@ -68,8 +68,17 @@ Halfway Progress Report (Rear)
 ![IMG_20210629_173236](https://user-images.githubusercontent.com/66106514/124024034-acbbcd00-d9bc-11eb-8a75-dc68782e4729.jpg)
 ![IMG_20210629_173452](https://user-images.githubusercontent.com/66106514/124024045-ae859080-d9bc-11eb-997c-3fe7f26ee743.jpg)
 ![IMG_20210629_173511](https://user-images.githubusercontent.com/66106514/124024051-b2191780-d9bc-11eb-9376-a3b4fdce2082.jpg)
+
+Notice the IC circled. I originally put it in with the wrong orientation. This caused r20 to release some of its magic smoke - even when the bypass switch isn't pressed, simply when the power supply is plugged in, it'll smoke. A huge overcurrent is frying the resistor instantly.
+
 ![IMG_20210629_180304](https://user-images.githubusercontent.com/66106514/124024058-b34a4480-d9bc-11eb-9fe5-913ac27302a4.jpg)
+
+After switching the IC around so the dot is on top, no more magic smoke from the resistor from +9v wire
+
 ![IMG_20210629_184142](https://user-images.githubusercontent.com/66106514/124024064-b6453500-d9bc-11eb-83e5-ad78f822a682.jpg)
+
+Might have to switch the resistor out but I think she might have survived.
+
 ![IMG_20210629_184154](https://user-images.githubusercontent.com/66106514/124024070-b7766200-d9bc-11eb-8c91-c5e41dc4a85f.jpg)
 
 
