@@ -77,7 +77,7 @@ After switching the IC around so the dot is on top, no more magic smoke from the
 
 ![IMG_20210629_184142](https://user-images.githubusercontent.com/66106514/124024064-b6453500-d9bc-11eb-83e5-ad78f822a682.jpg)
 
-Might have to switch the resistor out but I think she might have survived.
+Might have to switch the resistor out but I think she might have survived. You can clearly see the warping and bubbling from the extreme heat and stress on this little 10 Ohm resistor.
 
 ![IMG_20210629_184154](https://user-images.githubusercontent.com/66106514/124024070-b7766200-d9bc-11eb-8c91-c5e41dc4a85f.jpg)
 
