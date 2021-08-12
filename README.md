@@ -5,7 +5,7 @@ PCB design from madbeanpedals - - - https://madbeanpedals.com/ - - -
 
 The name is fitting as we are currently amidst the Coronavirus.
 
-Using slightly different values for some components and will results is pretty drastic change in aural phenomena. This pedal certainly is a weird wounding one :) 
+Using slightly different values for some components and will results is pretty drastic change in aural phenomena. This pedal certainly is a weird sounding one :) 
 
 Components ordered at Tayda Electronics. They really do have amazing prices : ) - - - https://www.taydaelectronics.com/ - - -
 
