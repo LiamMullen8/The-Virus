@@ -1,4 +1,4 @@
-# Tone-Virus
+# The-Virus
 Special Effect pedal for amplified instruments
 
 PCB design from madbeanpedals - - - https://madbeanpedals.com/ - - -
