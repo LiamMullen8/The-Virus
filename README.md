@@ -5,6 +5,8 @@ PCB design from madbeanpedals - - - https://madbeanpedals.com/ - - -
 
 The name is fitting as we are currently amidst the Coronavirus.
 
+This is acting as my practice for making README files just in case might need to later.
+
 Using slightly different values for some components and will result in some pretty drastic change in aural phenomena. This pedal certainly is a weird sounding one :) 
 
 Components ordered at Tayda Electronics. They really do have amazing prices : ) - - - https://www.taydaelectronics.com/ - - -
@@ -83,7 +85,6 @@ After switching the IC around so the dot is on top, no more magic smoke from the
 Might have to switch the resistor out but I think she might have survived. You can clearly see the warping and bubbling from the extreme heat and stress on this little 10 Ohm resistor.
 
 ![IMG_20210629_184154](https://user-images.githubusercontent.com/66106514/124024070-b7766200-d9bc-11eb-8c91-c5e41dc4a85f.jpg)
-
 
 https://user-images.githubusercontent.com/66106514/124024075-b9402580-d9bc-11eb-94fd-5ddd6d041209.mp4
 
